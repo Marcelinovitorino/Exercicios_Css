@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+.layout{
+    display: inline-flex;
+    margin: auto;
+
+}
+.col1{
+    width: 600px;/*opcional*/
+    border: 1px solid gray;/*opcional*/
+    margin-left:50px;/*opcional*/
+    padding: 10px;/*opcional*/
+    border-radius: 5px;/*opcional*/
+    background: aliceblue;/*opcional*/
+
+}
+.col2{
+    width: 600px;/*opcional*/
+    border: 1px solid gray;/*opcional*/
+    margin-left:150px;/*opcional*/
+    padding: 10px;/*opcional*/
+    border-radius: 5px;/*opcional*/
+    background: aliceblue;/*opcional*/
+
+}
+
+
+img{
+    width: 300px;
+}

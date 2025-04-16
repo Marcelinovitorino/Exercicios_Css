@@ -1,0 +1,7 @@
+button{
+    background: green;
+    color: aliceblue;
+    border-radius: 10px;
+ /*adcionei um padding de 10px so para deixar o botao mais visivel, o exercicio nao pede*/
+ padding: 5px;
+}

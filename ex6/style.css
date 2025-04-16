@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    background: black;
+    padding: 5px;
+    border: 1px solid rgb(129, 127, 127);
+}
+
+.nav_li{
+    display: inline-flex;
+    padding: 5px;
+  
+}
+.nav_a {
+    text-decoration: none;
+    color: aliceblue;
+    transition: color 0.3s ease; /* efeito basico */
+  }
+  
+  .nav_a:hover {
+    color: orange;              /* muda a cor ao passar o mouse */
+    text-decoration: dashed; /* destaca o link ao passar o mouse*/
+  }
+  
+
+.div_main{
+    padding: 10px;
+}
+.nav_logo{
+    width: 50px;
+    margin: 0px 10px 100px 0px;
+}

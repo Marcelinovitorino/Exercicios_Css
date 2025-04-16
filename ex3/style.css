@@ -1,0 +1,7 @@
+img{
+    width: 200px;
+   /*aredondamento  de 5px da imagem, o exercicio nao pede e opcional*/ border-radius: 5px;
+}
+figcaption{
+    color: 	#A52A2A;
+}
